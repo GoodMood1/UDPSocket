@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\bin\Debug\net6.0\UDPSocket2.exe
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\bin\Debug\net6.0\UDPSocket2.deps.json
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\bin\Debug\net6.0\UDPSocket2.runtimeconfig.json
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\bin\Debug\net6.0\UDPSocket2.dll
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\bin\Debug\net6.0\ref\UDPSocket2.dll
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\bin\Debug\net6.0\UDPSocket2.pdb
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\UDPSocket2.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\UDPSocket2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\UDPSocket2.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\UDPSocket2.AssemblyInfo.cs
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\UDPSocket2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\UDPSocket2.dll
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\ref\UDPSocket2.dll
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\UDPSocket2.pdb
+C:\Users\Hp\source\repos\UDPSocket2\UDPSocket2\obj\Debug\net6.0\UDPSocket2.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d0c1ecf-5bf1-4744-9134-b19ae0d48d0c": {
+      "ProjectGuid": "2d0c1ecf-5bf1-4744-9134-b19ae0d48d0c",
+      "DisplayName": "UDPSocket2",
+      "ColorIndex": 0
+    },
+    "95b3f124-4605-4464-a8e3-2ab11b875124": {
+      "ProjectGuid": "95b3f124-4605-4464-a8e3-2ab11b875124",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    },
+    "fe60e7f1-89b2-408d-9fda-ea73f7e5e93c": {
+      "ProjectGuid": "fe60e7f1-89b2-408d-9fda-ea73f7e5e93c",
+      "DisplayName": "Server",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
